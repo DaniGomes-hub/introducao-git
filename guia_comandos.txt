@@ -1,6 +1,6 @@
 git init
 
-git rrmote add origin 'link do github'
+git remote add origin 'link do github'
 
 git add . 
 
